@@ -19,7 +19,7 @@ public class Reservation {
     private String resourceName;
     private LocalDateTime reservationTime;
     private String tenantId;
-
+    private Long resourceId;
     // Getters y setters
 }
 
